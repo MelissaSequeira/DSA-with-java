@@ -47,3 +47,9 @@ Remove exactly one occurrence of 'a' and exactly one occurrence of 'm', from any
 Now Mr. Jim wants to know if after some number of wishes is it possible to make string A empty. 
 
 Return 1 if it is possible to make string A empty after some number of operations otherwise Return 0. 
+
+Prob19-Function:Addition of 2 numbers
+
+Prob20-Function with recursion:Factorial
+
+Prob21- OOPs: classes, objects, consttructor, this keyword
