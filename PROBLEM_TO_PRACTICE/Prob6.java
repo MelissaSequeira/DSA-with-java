@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Count the number of digits in given number
 import java.util.Scanner;
 public class Prob6 {

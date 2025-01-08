@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Largest of N numbers
 
 import java.util.Scanner;

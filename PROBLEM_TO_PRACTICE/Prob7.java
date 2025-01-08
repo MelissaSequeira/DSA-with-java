@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Sum of postive numbers...stop when -ve
 import java.util.Scanner;
 public class Prob7 {

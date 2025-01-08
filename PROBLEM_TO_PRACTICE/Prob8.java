@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //sum of n numbers
 import java.lang.*;
 import java.util.*;

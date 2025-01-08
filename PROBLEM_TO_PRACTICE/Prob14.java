@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 import java.util.*;
 public class Prob14 {
                         public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 /*Problem: Create an abstract class Appliance with an abstract method turnOn() and a concrete method turnOff(). 
 Then, create two subclasses Fan and Light that implement the turnOn() method in their own way.
 

@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Switch case Months
 import java.util.Scanner;
 public class Prob2 {

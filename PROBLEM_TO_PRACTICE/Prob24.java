@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 /*Problem: Create a class Shape with a method area() that returns 0 (as a generic shape doesn't have a specific area). 
 Then, create two subclasses, Circle and Rectangle, that override the area() method to calculate the area of a circle and 
 a rectangle, respectively.

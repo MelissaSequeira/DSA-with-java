@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 /*Mr. Jim likes playing with strings a lot, so Mrs. Pam gifted him a string A which has some very unique magical powers. The string consists of lowercase latin letters 'p','a' and 'm' only.
 
 In one wish, Mr Jim can perform one of the following operations:

@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Factorial of number:Recursion
 import java.util.*;
 public class Prob20 {

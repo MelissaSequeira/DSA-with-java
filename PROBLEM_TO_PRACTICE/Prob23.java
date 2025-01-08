@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 /*Problem: Create a class Employee with the following attributes:
 
 name (String)

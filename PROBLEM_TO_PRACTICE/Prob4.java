@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Type of Triangle
 import java.lang.*;
 import java.util.*;

@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Even Odd
 import java.util.Scanner;
 public class Main{

@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 /*Electricity mein or in any word the first letter kidhar repeat hota hai vaha $ dalo */
 import java.util.*;
 public class Prob17{

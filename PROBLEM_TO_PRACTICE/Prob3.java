@@ -1,3 +1,4 @@
+package PROBLEM_TO_PRACTICE;
 //Add 2 numbers and divide it with 3rd and get remainder
 import java.lang.*;
 import java.util.*;
