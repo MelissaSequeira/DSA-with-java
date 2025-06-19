@@ -1,0 +1,260 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "dsa1",
+            "request": "launch",
+            "mainClass": "DAY1.dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "dsa1(1)",
+            "request": "launch",
+            "mainClass": "DAY4.dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "dsa1(2)",
+            "request": "launch",
+            "mainClass": "DAY5.dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "dsa1(3)",
+            "request": "launch",
+            "mainClass": "DAY6.dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "dsa1(4)",
+            "request": "launch",
+            "mainClass": "DAY7.dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "dsa1(5)",
+            "request": "launch",
+            "mainClass": "DAY8.dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.App",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Main",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob10",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob10",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob11",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob11",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob12",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob12",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob13",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob13",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob14",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob14",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob15",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob15",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob16",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob16",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob17",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob17",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob18",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob18",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob19",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob19",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob2",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob2",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob20",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob20",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob21",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob21",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob22",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob22",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob23",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob23",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob24",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob24",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob25",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob25",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob3",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob3",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob4",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob4",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob5",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob5",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob6",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob6",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob7",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob7",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob8",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob8",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Prob9",
+            "request": "launch",
+            "mainClass": "PROBLEM_TO_PRACTICE.Prob9",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Selection",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        },
+        {
+            "type": "java",
+            "name": "dsa1(6)",
+            "request": "launch",
+            "mainClass": "dsa1",
+            "projectName": "DSA-with-java_5dbd7cd5"
+        }
+    ]
+}
