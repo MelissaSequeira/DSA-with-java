@@ -29,6 +29,9 @@ dsa2.class
 Solution.class
 dsa1.class
 StriverA-z\Selection.class
-StriverA-z\Bubble.java
-StriverA-z\Insertion.java
-StriverA-z\Merge.java
+StriverA-z\Bubble.class
+StriverA-z\Insertion.class
+StriverA-z\Merge.class
+StriverA-z\ArrDay1.class
+StriverA-z\Arr2Day1.class
+StriverA-z\Arr3Day1.class
