@@ -1,27 +1,41 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.Scanner;
 
 public class Arr1Day2 {
 
     public static int[] removeDuplicate(int[] nums) {
-        ArrayList<Integer> arr = new ArrayList<>();
+        // O(n^2) hai ye
+        // ArrayList<Integer> arr = new ArrayList<>();
+        // for (int n : nums) {
+        // arr.add(n);
+        // }
+        // for (int i = 0; i < arr.size() - 1; i++) {
+        // for (int j = i + 1; j < arr.size(); j++) {
+        // if (arr.get(i).equals(arr.get(j))) {
+        // arr.remove(j);
+        // j--; // Important to re-check shifted value
+        // }
+        // }
+        // }
+        // int[] newn = new int[arr.size()];
+        // for (int i = 0; i < arr.size(); i++) {
+
+        // newn[i] = arr.get(i);
+
+        // }
+
+        // O(n) hai ye
+        HashSet<Integer> set = new HashSet<>();
         for (int n : nums) {
-            arr.add(n);
+            set.add(n);
         }
-        for (int i = 0; i < arr.size() - 1; i++) {
-            for (int j = i + 1; j < arr.size(); j++) {
-                if (arr.get(i).equals(arr.get(j))) {
-                    arr.remove(j);
-                    j--; // Important to re-check shifted value
-                }
-            }
-        }
-        int[] newn = new int[arr.size()];
-        for (int i = 0; i < arr.size(); i++) {
-
-            newn[i] = arr.get(i);
-
+        int[] newn = new int[set.size()];
+        int i = 0;
+        for (int n : set) {
+            newn[i] = n;
+            i++;
         }
         return newn;
     }
