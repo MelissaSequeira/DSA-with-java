@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+//O(n)
 public class MissingValue {
     public static int missingNumber(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
