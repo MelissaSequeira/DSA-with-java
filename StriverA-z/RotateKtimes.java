@@ -15,7 +15,9 @@ public class RotateKtimes {
         // nums[0]=temp;
         // k--;
         // }
-        // }
+        // }time limit exceedd(kn)
+
+        // O(n)
         int l = 0;
         int r = nums.length - 1;
         while (l < r) {
