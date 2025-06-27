@@ -8,14 +8,15 @@ public class LengthOfLongSS {
         int l = 0;
         int c = 0;
         int r = l;
-        while (l < nums.length) {
-            if (sum != k) {
+        while (l <= nums.length - 1) {
+            if (r < nums.length && sum + nums[r] <= k) {
                 sum = sum + nums[r];
                 c++;
                 r++;
             } else {
                 arr.add(c);
                 sum = 0;
+                c = 0;
                 l++;
                 r = l;
             }
